@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\bin\Debug\Backpropagat_algorithm.exe.config
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\bin\Debug\Backpropagat_algorithm.exe
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\bin\Debug\Backpropagat_algorithm.pdb
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\obj\Debug\Backpropagat_algorithm.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\obj\Debug\Backpropagat_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\obj\Debug\Backpropagat_algorithm.exe
+C:\Users\user\Source\Repos\Backpropagation_algorithm\Backpropagat_algorithm\Backpropagat_algorithm\obj\Debug\Backpropagat_algorithm.pdb
